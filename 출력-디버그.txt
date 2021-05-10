@@ -1,0 +1,12 @@
+﻿'KurumiWorks.exe'(Win32): 'C:\Users\Administrator\source\repos\KurumiWorks\Debug\KurumiWorks.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. 
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. 
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. 
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\msvcp140d.dll'을(를) 로드했습니다. 
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll'을(를) 로드했습니다. 
+'KurumiWorks.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbased.dll'을(를) 로드했습니다. 
+0x1eac 스레드가 종료되었습니다(코드: 0 (0x0)).
+0xee4 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x1b6c 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x13f0 스레드가 종료되었습니다(코드: -1073741510 (0xc000013a)).
+'[5964] KurumiWorks.exe' 프로그램이 종료되었습니다(코드: -1073741510 (0xc000013a)).
